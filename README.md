@@ -35,7 +35,7 @@ Prove o seu conhecimento desenvolvendo um motor de análise em Python capaz de p
 ### Passo 1: Arquivos do Projeto
 Crie uma pasta no seu computador e abra-a no **VS Code**. Crie o seguinte arquivo na raiz:
 ```text
-meu_projeto_soc/
+log_s19_registro_strings/
 └── triagem_logs.py     # Script de parsing e automação de alertas
 ```
 
